@@ -1,0 +1,24 @@
+{
+  "name": "console-utils",
+  "version": "1.0.0",
+  "description": "oz 교육2팀 자바스크립트 교육 컨텐츠 전용 패키지",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeonGAMJA/console-utils.git"
+  },
+  "keywords": [
+    "utils",
+    "console",
+    "readline"
+  ],
+  "author": "gamjajeon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JeonGAMJA/console-utils/issues"
+  },
+  "homepage": "https://github.com/JeonGAMJA/console-utils#readme"
+}
