@@ -1,5 +1,5 @@
 {
-  "name": "console-utils",
+  "name": "@gamjajeon/console-utils",
   "version": "1.0.0",
   "description": "oz 교육2팀 자바스크립트 교육 컨텐츠 전용 패키지",
   "main": "src/index.js",
