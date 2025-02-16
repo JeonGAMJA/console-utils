@@ -1,4 +1,4 @@
-class Console {
+export class Console {
   static async readLine(message) {
     const readline = await import("readline");
     const rl = readline.createInterface({
