@@ -1,5 +1,3 @@
-const Console = require("./Console");
+import { Console } from "./Console";
 
-module.exports = {
-  Console,
-};
+export { Console };

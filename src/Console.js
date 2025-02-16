@@ -1,6 +1,6 @@
 class Console {
   static async readLine(message) {
-    const readline = require("readline");
+    const readline = await import("readline");
     const rl = readline.createInterface({
       input: process.stdin,
       output: process.stdout,
