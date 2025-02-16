@@ -1,3 +1,1 @@
-import { Console } from "./Console";
-
-export { Console };
+export { Console } from "./Console.js";
