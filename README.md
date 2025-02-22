@@ -7,6 +7,16 @@
 npm install @gamjajeon/console-utils
 ```
 
+## Usage Examples
+
+```
+import { Console } from '@gamjajeon/console-utils';
+
+const username = Console.readLine('Please enter your username:');
+Console.print(`Welcome, ${username}!`);
+
+```
+
 ## Support
 gamjajeon github
 
