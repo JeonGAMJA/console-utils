@@ -1,21 +1,16 @@
 <h1>@gamjajeon/console-utils</h1>
-<hr/>
 <span>oz 교육2팀 자바스크립트 교육 컨텐츠 전용 패키지입니다. 콘솔 입출력을 간단하게 사용할 수 있도록 도와주는 유틸리티 함수들을 제공합니다.</span>
 
 <h2>Install</h2>
-<hr/>
 <h2>npm</h2>
 ```npm install @gamjajeon/console-utils```
 <h2>Support</h2>
-<hr/>
 gamjajeon github
 <h2>Dependencies</h2>
-<hr/>
 |Name|License|Copyright|
 |------|---|---|
 |readline-sync|MIT|anseki|
 <h2>License</h2>
-<hr/>
 MIT License
 
 Copyright (c) 2025 gamjajeon
