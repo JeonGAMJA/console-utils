@@ -3,13 +3,17 @@
 
 <h2>Install</h2>
 <h2>npm</h2>
-``` npm install @gamjajeon/console-utils ```
+```
+npm install @gamjajeon/console-utils
+```
 <h2>Support</h2>
 gamjajeon github
 <h2>Dependencies</h2>
+
 |Name|License|Copyright|
 |------|---|---|
 |readline-sync|MIT|anseki|
+
 <h2>License</h2>
 MIT License
 
